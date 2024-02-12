@@ -1,0 +1,7 @@
+input,expected
+"AABBCCD112233","ABCD123"
+"ABCD123","ABCD123"
+"",""
+"null",""
+"!!@@##aBBa","!@#aB"
+"AAAA","A"
